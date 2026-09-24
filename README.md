@@ -15,4 +15,4 @@
 
 
 <h3 align="left">Portfolio:</h3>
-<a href="https://github.com/pluuto960/portfolio" target="_blank">github.com/pluuto960/portfolio</a>
+<a href="https://pluuto960.github.io/portfolio/" target="_blank">pluuto960.github.io/portfolio/</a>
